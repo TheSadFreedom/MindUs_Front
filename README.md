@@ -1,1 +1,0 @@
-# MindUs_Front
